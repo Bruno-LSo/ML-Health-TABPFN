@@ -19,7 +19,7 @@ Este projeto demonstra a aplicação de algoritmos de machine learning para pred
 
 ## Visão Geral
 
-Este projeto foi desenvolvido no Curso de Verão 2025 da Faculdade de Saúde Pública da USP e explora como técnicas avançadas de machine learning podem ser aplicadas para predizer risco cardiovascular, comparando diferentes algoritmos e explorando técnicas de interpretabilidade e seleção de features. O objetivo principal é testarmos o modelo TABPFN.
+Este projeto explora como técnicas avançadas de machine learning podem ser aplicadas para predizer risco cardiovascular, comparando diferentes algoritmos e explorando técnicas de interpretabilidade e seleção de features. O objetivo principal é testarmos o modelo TABPFN.
 
 https://www.nature.com/articles/s41586-024-08328-6
 
